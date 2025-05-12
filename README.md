@@ -1,4 +1,5 @@
 ![Bendy Studio Collection Launcher Logo](https://github.com/user-attachments/assets/6a6fb7f9-673e-4da5-a25a-2662d963ea51)
+
 Survive and discover the mysteries of Joey Drew Studios in this collection of the Bendy franchise. Bendy: Studio Collection tells the story of Henry in Bendy and the Ink Machine, Audrey in Bendy and the Dark Revival, and much more. Find out what nightmares lie within the inky abyss of this classic animation studio.
 
 Bendy: Studio Collection Launcher is a FAN-MADE launcher for all the Bendy games! Sticking all the inky adventures within a single application Explore the depths of the studio to your hearts content with this Bendy-Bundle of Fun!
