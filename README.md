@@ -7,7 +7,11 @@ Bendy: Studio Collection Launcher is a FAN-MADE launcher for all the Bendy games
 © 2017-2025 Joey Drew Studios Inc. Bendy®, Bendy and the Ink Machine®, Bendy and the Dark Revival®, Bendy: Lone Wolf™, Bendy Cartoons, The Bendy characters, images and logos are trademarks of Joey Drew Studios Inc. All Rights Reserved.
 
 Credits:
+
 Graphic Design: BeninjaLIVE (@BeninjaLIVE on all platforms)
+
 Programming: Sade (@OmotamiaDev on all platforms)
+
 Aura: Sketch (@shockarock on all platforms)
+
 Joe: Joe (@ChairThatSpins on all platforms) 
