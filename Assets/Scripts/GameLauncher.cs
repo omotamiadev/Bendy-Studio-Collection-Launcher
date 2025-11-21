@@ -73,11 +73,13 @@ public class ExeLauncher : MonoBehaviour
             }
         }
     }
-    private const string secretsOfTheMachineAppID = "2862330";
+    private const string secretsOfTheMachineAppID = "622630";
     private const string bendyAndTheInkMachineAppID = "622650";
     private const string bendyAndTheDarkRevivalAppID = "1063660";
     private const string bendyTheCageAppID = "2663960";
     private const string bendyAndTheDarkSurvivalAppID = "1236990";
+    private const string BendyLoneWolfAppID = "3232610";
+    public void LaunchBendyLoneWolf() => LaunchSteamGame(BendyLoneWolfAppID, 1);
     public void LaunchSecretsOfTheMachine() => LaunchSteamGame(secretsOfTheMachineAppID, 1);
     public void LaunchBendyAndTheInkMachine() => LaunchSteamGame(bendyAndTheInkMachineAppID, 2);
     public void LaunchBendyAndTheDarkRevival() => LaunchSteamGame(bendyAndTheDarkRevivalAppID, 4);
@@ -100,4 +102,5 @@ public class ExeLauncher : MonoBehaviour
             Process.Start(new ProcessStartInfo(steamUri) { UseShellExecute = true });
         }
     }
+
 }
